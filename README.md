@@ -38,7 +38,9 @@ tech stack: Python, Java, C, SQL, data tools
 -->
 ## Tech Stack
 My current Tech Stack includes: 
-###Languages: 
+
+### Languages: 
 Python, Java, JavaScript, HTML, Tailwind CSS, JSON Querrying, C (basic)
-###Frameworks and Software: 
+
+### Frameworks and Software: 
 React, Node.js, PyTorch, Vite, Docker, Android Studio, Firebase, OpenCV, MongoDB, AWS, RESTful APIs, Microsoft Office Suite (Word, extensive Excel Data Analytics, Powerpoint, etc)
