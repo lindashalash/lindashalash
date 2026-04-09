@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--
 2–3 sentence intro
 -->
-Hi! I am a Bsc. Computer Science and Design Student at Singapore University of Technology and Design in my 4th Year who loves to make new and exciting projects and sharing them. I am Italian-Ukraining, grew up in Switzerland now living and working in Singapore. I love problem solving, arts as well as project-based work, always looking for patterns and exploring new ideas whenever I can. 
+My name is Linda, I am a Bsc. Computer Science and Design Student at Singapore University of Technology and Design in my 4th Year who loves to make new and exciting projects and sharing them. I am Italian-Ukraining, grew up in Switzerland now living and working in Singapore. I love problem solving, arts as well as project-based work, always looking for patterns and exploring new ideas whenever I can. 
 
 <!--
 interests: fintech, AI, data, visual analytics, computing
