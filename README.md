@@ -56,7 +56,7 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
   * Achieved an outstanding **99.95% Negative Log-Likelihood (NLL) loss reduction** over 100 training epochs on the MNIST dataset.
   * Systematically debugged complex ODE instabilities, GPU memory allocation overflows, and gradient leaks.
 
-* Repo Link: [📄 View the Full Project](https://github.com/lindashalash/ffjord-checkpoints)
+* Repo Link: [View the Full Project](https://github.com/lindashalash/ffjord-checkpoints)
 
 ### 4. Machine Learning Hate Speech Classifier Pipeline
 **Role:** ML Engineer @ SUTD *(Jun 2025 – Aug 2025)* 
@@ -67,7 +67,7 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
   * Executed Principal Component Analysis (PCA) directly on **5,000+ sparse TF-IDF text features** to maximize efficiency.
   * Benchmarked hyperparameters against KNN variations to optimize the model for leaderboard performance.
  
-* Repo Link: [View the Full Project](https://github.com/lindashalash/ML_Project))
+* Repo Link: [View the Full Project](https://github.com/lindashalash/ML_Project)
 
 ### 5. Industry Hotel Booking Platform
 **Collaboration:** Sponsored by Ascenda @ SUTD *(May 2025 – Aug 2025)* 
@@ -77,7 +77,7 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
   * Implemented secure financial infrastructure with the Stripe payment API using strict tokenization protocols.
   * Achieved rigorous **PCI DSS compliance** standards and engineered durable, real-time webhook infrastructure for reliable purchase processing.
 
-* Repo Link: [View the Full Project](https://github.com/lindashalash/esc-project-c3t7))
+* Repo Link: [View the Full Project](https://github.com/lindashalash/esc-project-c3t7)
 
 ---
 
