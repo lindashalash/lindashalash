@@ -22,7 +22,7 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
 | :--- | :--- |
 | **Programming Languages** | Python, Java, JavaScript, HTML, Tailwind CSS, C (Basic) |
 | **Frameworks & Backends** | Node.js, React, Flask, Firebase, MongoDB, RESTful APIs, Google Apps Script, Power Query |
-| **AI, ML & NLP** | LLM APIs (OpenAI GPT-4, Claude), Advanced Prompt Engineering, Neural ODEs, PyTorch, TF-IDF, PCA, OpenCV |
+| **AI, ML & NLP** | LLM APIs (OpenAI GPT-4, Anthropic Sonnet 4.6, ParallelAI, Gemini Flash), Advanced Prompt Engineering, Neural ODEs, PyTorch, TF-IDF, PCA, OpenCV |
 | **DevOps & Tools** | Docker, AWS, Android Studio, Git/GitHub, Agile Development |
 
 ---
@@ -30,7 +30,7 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
 ## 🛠️ Featured Projects & Research
 
 ### 1. Project Iris: AI-Driven Financial & Legal Extraction
-**Role:** Product Analyst Intern @ Covalent Capital *(Feb 2026 – Present)* * **Tech Stack:** Python, Prompt Engineering, OpenAI/Claude APIs, Information Extraction, Model Validation
+**Role:** Product Analyst Intern @ Covalent Capital *(Feb 2026 – Present)* * **Tech Stack:** Python, Prompt Engineering, OpenAI/Claude/Parallel/Gemini APIs, Information Extraction, Model Validation
 * **Overview:** Revolutionized financial research by designing LLM extraction pipelines for **2,000+ financial circulars**, bond prospectuses, and EMTN deals. 
 * **Key Implementations:**
   * Specially engineered deep prompts to accurately isolate legally significant clauses (e.g., *Change of Control*, *Asset Sales*, *Permitted Indebtedness*) within thousands of long-form, multi-page financial documents.
@@ -52,7 +52,7 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
   * Systematically debugged complex ODE instabilities, GPU memory allocation overflows, and gradient leaks.
 
 ### 4. Machine Learning Hate Speech Classifier Pipeline
-**Role:** Independent ML Engineer *(Jun 2025 – Aug 2025)* * **Tech Stack:** Python, NumPy, TF-IDF, PCA, K-Nearest Neighbors (KNN), Logistic Regression
+**Role:** ML Engineer @ SUTD *(Jun 2025 – Aug 2025)* * **Tech Stack:** Python, NumPy, TF-IDF, PCA, K-Nearest Neighbors (KNN), Logistic Regression
 * **Overview:** Built an optimized text categorization engine completely from mathematical primitives without using high-level machine learning libraries (e.g., no scikit-learn).
 * **Key Milestones:**
   * Engineered a binary classifier utilizing raw logistic regression, custom sigmoid activation algorithms, and strict gradient descent optimization loops.
@@ -60,7 +60,7 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
   * Benchmarked hyperparameters against KNN variations to optimize the model for leaderboard performance.
 
 ### 5. Industry Hotel Booking Platform
-**Collaboration:** Sponsored by Ascenda *(May 2025 – Aug 2025)* * **Tech Stack:** ReactJS, Node.js, MongoDB, Stripe API, JWT, Agile Methodologies
+**Collaboration:** Sponsored by Ascenda @ SUTD *(May 2025 – Aug 2025)* * **Tech Stack:** ReactJS, Node.js, MongoDB, Stripe API, JWT, Agile Methodologies
 * **Overview:** Front-to-back development lead for an industry-grade full-stack hospitality marketplace. 
 * **Key Milestones:**
   * Implemented secure financial infrastructure with the Stripe payment API using strict tokenization protocols.
