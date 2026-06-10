@@ -30,7 +30,8 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
 ## 🛠️ Featured Projects & Research
 
 ### 1. Project Iris: AI-Driven Financial & Legal Extraction
-**Role:** Product Analyst Intern @ Covalent Capital *(Feb 2026 – Present)* * **Tech Stack:** Python, Prompt Engineering, OpenAI/Claude/Parallel/Gemini APIs, Information Extraction, Model Validation
+**Role:** Product Analyst Intern @ Covalent Capital *(Feb 2026 – Present)* 
+* **Tech Stack:** Python, Prompt Engineering, OpenAI/Claude/Parallel/Gemini APIs, Information Extraction, Model Validation
 * **Overview:** Revolutionized financial research by designing LLM extraction pipelines for **2,000+ financial circulars**, bond prospectuses, and EMTN deals. 
 * **Key Implementations:**
   * Specially engineered deep prompts to accurately isolate legally significant clauses (e.g., *Change of Control*, *Asset Sales*, *Permitted Indebtedness*) within thousands of long-form, multi-page financial documents.
@@ -47,7 +48,8 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
 * HCI Paper Link: [[📄 View the CommFlow Research Paper](https://github.com/lindashalash/hciCommFlow/blob/main/CommFlow%20(Paper)%20-%20Team%205.pdf)
 
 ### 3. FFJORD: Free-Form Continuous Normalizing Flow
-**Institution:** Korea Advanced Institute of Science and Technology (KAIST) *(Oct 2025 – Dec 2025)* * **Tech Stack:** Python, PyTorch, Neural ODEs, `torchdiffeq`, Google Colab
+**Institution:** Korea Advanced Institute of Science and Technology (KAIST) *(Oct 2025 – Dec 2025)* 
+* **Tech Stack:** Python, PyTorch, Neural ODEs, `torchdiffeq`, Google Colab
 * **Overview:** Implemented a complex generative FFJORD model completely from scratch in PyTorch as part of a Merit Scholarship Exchange program in South Korea.
 * **Key Milestones:**
   * Built custom implementations of the **Hutchinson Trace Estimator** alongside **RK4** and **dopri5** ordinary differential equation (ODE) solvers.
@@ -57,7 +59,8 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
 * Repo Link: [[📄 View the Full Project](https://github.com/lindashalash/ffjord-checkpoints)
 
 ### 4. Machine Learning Hate Speech Classifier Pipeline
-**Role:** ML Engineer @ SUTD *(Jun 2025 – Aug 2025)* * **Tech Stack:** Python, NumPy, TF-IDF, PCA, K-Nearest Neighbors (KNN), Logistic Regression
+**Role:** ML Engineer @ SUTD *(Jun 2025 – Aug 2025)* 
+* **Tech Stack:** Python, NumPy, TF-IDF, PCA, K-Nearest Neighbors (KNN), Logistic Regression
 * **Overview:** Built an optimized text categorization engine completely from mathematical primitives without using high-level machine learning libraries (e.g., no scikit-learn).
 * **Key Milestones:**
   * Engineered a binary classifier utilizing raw logistic regression, custom sigmoid activation algorithms, and strict gradient descent optimization loops.
@@ -67,7 +70,8 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
 * Repo Link: [[View the Full Project](https://github.com/lindashalash/ML_Project))
 
 ### 5. Industry Hotel Booking Platform
-**Collaboration:** Sponsored by Ascenda @ SUTD *(May 2025 – Aug 2025)* * **Tech Stack:** ReactJS, Node.js, MongoDB, Stripe API, JWT, Agile Methodologies
+**Collaboration:** Sponsored by Ascenda @ SUTD *(May 2025 – Aug 2025)* 
+* **Tech Stack:** ReactJS, Node.js, MongoDB, Stripe API, JWT, Agile Methodologies
 * **Overview:** Front-to-back development lead for an industry-grade full-stack hospitality marketplace. 
 * **Key Milestones:**
   * Implemented secure financial infrastructure with the Stripe payment API using strict tokenization protocols.
