@@ -37,11 +37,12 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
   * Overrode standard constraints to mandate the extraction of *Risk Factors* directly from documents, ensuring high-fidelity legal coverage.
   * Designed custom QA reporting and automated market intelligence scripts, boosting pipeline observability and significantly driving down hours required for manual review.
 
-### 2. CommFlow: Role-Based Document Comment Prioritization System
+### 2. CommFlow @ KAIST: Role-Based Document Comment Prioritization System
 **Role:** Lead Developer / UI Designer  
 * **Tech Stack:** React, Node.js, Tailwinds CSS, Custom UI Architecture
 * **Overview:** Developed an interactive, role-based orchestration system utilizing manual, auto-tagging, and hybrid prototypes to streamline feedback loop reviews.
 * **Design Philosophy:** Cultivated an elegant visual language utilizing a beautiful, clean, neutral color palette for comment boxes while applying highly saturated yellow highlights explicitly to targeted document text blocks for immediate context scanning.
+* HCI Paper Link: [![HCIPaper](https://img.shields.io/badge/HCIPaper-CommFlow-orange?style=flat)](https://linkedin.com/in/linda-emilia-shalash)
 
 ### 3. FFJORD: Free-Form Continuous Normalizing Flow
 **Institution:** Korea Advanced Institute of Science and Technology (KAIST) *(Oct 2025 – Dec 2025)* * **Tech Stack:** Python, PyTorch, Neural ODEs, `torchdiffeq`, Google Colab
