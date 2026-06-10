@@ -42,7 +42,9 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
 * **Tech Stack:** React, Node.js, Tailwinds CSS, Custom UI Architecture
 * **Overview:** Developed an interactive, role-based orchestration system utilizing manual, auto-tagging, and hybrid prototypes to streamline feedback loop reviews.
 * **Design Philosophy:** Cultivated an elegant visual language utilizing a beautiful, clean, neutral color palette for comment boxes while applying highly saturated yellow highlights explicitly to targeted document text blocks for immediate context scanning.
-* HCI Paper Link: [![HCIPaper](https://img.shields.io/badge/HCIPaper-CommFlow-orange?style=flat)](https://linkedin.com/in/linda-emilia-shalash)
+
+* Repo Link: [[View the Full Project](https://github.com/lindashalash/hciCommFlow)
+* HCI Paper Link: [[📄 View the CommFlow Research Paper](https://github.com/lindashalash/hciCommFlow/blob/main/CommFlow%20(Paper)%20-%20Team%205.pdf)
 
 ### 3. FFJORD: Free-Form Continuous Normalizing Flow
 **Institution:** Korea Advanced Institute of Science and Technology (KAIST) *(Oct 2025 – Dec 2025)* * **Tech Stack:** Python, PyTorch, Neural ODEs, `torchdiffeq`, Google Colab
@@ -52,6 +54,8 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
   * Achieved an outstanding **99.95% Negative Log-Likelihood (NLL) loss reduction** over 100 training epochs on the MNIST dataset.
   * Systematically debugged complex ODE instabilities, GPU memory allocation overflows, and gradient leaks.
 
+* Repo Link: [[📄 View the Full Project](https://github.com/lindashalash/ffjord-checkpoints)
+
 ### 4. Machine Learning Hate Speech Classifier Pipeline
 **Role:** ML Engineer @ SUTD *(Jun 2025 – Aug 2025)* * **Tech Stack:** Python, NumPy, TF-IDF, PCA, K-Nearest Neighbors (KNN), Logistic Regression
 * **Overview:** Built an optimized text categorization engine completely from mathematical primitives without using high-level machine learning libraries (e.g., no scikit-learn).
@@ -59,6 +63,8 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
   * Engineered a binary classifier utilizing raw logistic regression, custom sigmoid activation algorithms, and strict gradient descent optimization loops.
   * Executed Principal Component Analysis (PCA) directly on **5,000+ sparse TF-IDF text features** to maximize efficiency.
   * Benchmarked hyperparameters against KNN variations to optimize the model for leaderboard performance.
+ 
+* Repo Link: [[View the Full Project](https://github.com/lindashalash/ML_Project))
 
 ### 5. Industry Hotel Booking Platform
 **Collaboration:** Sponsored by Ascenda @ SUTD *(May 2025 – Aug 2025)* * **Tech Stack:** ReactJS, Node.js, MongoDB, Stripe API, JWT, Agile Methodologies
@@ -66,6 +72,8 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
 * **Key Milestones:**
   * Implemented secure financial infrastructure with the Stripe payment API using strict tokenization protocols.
   * Achieved rigorous **PCI DSS compliance** standards and engineered durable, real-time webhook infrastructure for reliable purchase processing.
+
+* Repo Link: [[View the Full Project](https://github.com/lindashalash/esc-project-c3t7))
 
 ---
 
