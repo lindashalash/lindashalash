@@ -10,9 +10,9 @@
 ## 📌 Profile Summary
 Motivated **Computer Science & AI** student at the **Singapore University of Technology and Design (SUTD)** with robust experience engineering AI-powered product pipelines, LLM architectures, and data-intensive solutions. 
 
-* 🛠️ **Full-Stack & ML Integration:** Proven track record of architecting and deploying systems that combine complex backend logic (LLMs, DBs) with highly functional, intuitive user interfaces.
-* 📈 **Data Observability & Engineering:** Skilled at processing multi-page unstructured structures, implementing automated QA validation rules, and building production-grade automation tooling.
-* 🌍 **Global & Collaborative Mindset:** Multilingual professional (Fluent in English & Italian; Proficient in German, French, & Russian) experienced in cross-functional engineering execution across rapid, fast-paced environments.
+* **Full-Stack & ML Integration:** Proven track record of architecting and deploying systems that combine complex backend logic (LLMs, DBs) with highly functional, intuitive user interfaces.
+* **Data Observability & Engineering:** Skilled at processing multi-page unstructured structures, implementing automated QA validation rules, and building production-grade automation tooling.
+* **Global & Collaborative Mindset:** Multilingual professional (Fluent in English & Italian; Proficient in German, French, & Russian) experienced in cross-functional engineering execution across rapid, fast-paced environments.
 
 ---
 
