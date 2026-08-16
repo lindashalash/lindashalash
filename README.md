@@ -2,7 +2,7 @@
 ### Computer Science & AI Student | Product Analyst Intern | AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Linda--Emilia--Shalash-blue?style=flat&logo=linkedin)](https://linkedin.com/in/linda-emilia-shalash)
-[![Email](https://img.shields.io/badge/Email-lindaemilia__shalash%40mymail.sutd.edu.sg-red?style=flat&logo=gmail)](mailto:lindaemilia_shalash@mymail.sutd.edu.sg)
+[![Email](https://img.shields.io/badge/Email-lindaemilia__shalash%40mymail.sutd.edu.sg-red?style=flat&logo=gmail)](mailto:shalash.linda@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Singapore-brightgreen?style=flat&logo=googlemaps)](https://maps.google.com)
 
 ---
@@ -30,7 +30,7 @@ Motivated **Computer Science & AI** student at the **Singapore University of Tec
 ## 🛠️ Featured Projects & Research
 
 ### 1. Project Iris: AI-Driven Financial & Legal Extraction
-**Role:** Product Analyst Intern @ Covalent Capital *(Feb 2026 – Present)* 
+**Role:** Product Analyst Intern @ Covalent Capital *(Feb 2026 – July 2026)* 
 * **Tech Stack:** Python, Prompt Engineering, OpenAI/Claude/Parallel/Gemini APIs, Information Extraction, Model Validation
 * **Overview:** Revolutionized financial research by designing LLM extraction pipelines for **2,000+ financial circulars**, bond prospectuses, and EMTN deals. 
 * **Key Implementations:**
